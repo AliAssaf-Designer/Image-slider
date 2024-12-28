@@ -15,11 +15,10 @@ img{
     height: 100%;
 }
 .cycle-slideshow{
-    width: 100%;
+    width: 90%;
     max-width: 760px;
     display: block;
     position: relative;
-    left: 0;
     margin: 30px auto;
     border: 5px solid white;
 }
